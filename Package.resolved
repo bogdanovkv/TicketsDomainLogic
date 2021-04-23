@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DomainAbstraction",
+        "repositoryURL": "https://github.com/bogdanovkv/DomainAbstraction.git",
+        "state": {
+          "branch": null,
+          "revision": "d2bc3edb8398b7ac0a056ea0db44808afa91cc58",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "TicketsDomainAbstraction",
+        "repositoryURL": "https://github.com/bogdanovkv/TicketsDomainAbstraction.git",
+        "state": {
+          "branch": null,
+          "revision": "429d0f43ab3d742637e82d0f27b9ef4e24417182",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "TicketsRepositoryAbstraction",
+        "repositoryURL": "https://github.com/bogdanovkv/TicketsRepositoryAbstraction.git",
+        "state": {
+          "branch": null,
+          "revision": "e9f55dabebba79c8c810974595f10a25733d0440",
+          "version": "1.0.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
