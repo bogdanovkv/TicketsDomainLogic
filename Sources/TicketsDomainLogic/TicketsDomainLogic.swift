@@ -1,5 +1,4 @@
 import DomainAbstraction
-import DomainAbstraction
 import TicketsDomainAbstraction
 import TicketsRepositoryAbstraction
 
