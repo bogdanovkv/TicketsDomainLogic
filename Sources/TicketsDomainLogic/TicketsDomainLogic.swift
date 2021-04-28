@@ -4,7 +4,7 @@ import TicketsDomainAbstraction
 import TicketsRepositoryAbstraction
 
 /// Сборщик UseCase'ов логики работы с билетами
-public final class TicketsDomainLogic {
+public final class TicketsDomainLogicAssembly {
 
 	public init() {}
 
